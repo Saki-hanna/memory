@@ -1,0 +1,26 @@
+#memory h1{
+    color: #ffb951;
+    font-family: 'Raleway',sans-serif;
+    font-size: 62px;
+    font-weight: 800;
+    line-height: 72px;
+    margin: 0 0 24px;
+    text-transform: uppercase;
+}
+
+#memory .container-game{
+    max-width: 500px;
+    margin: auto;
+}
+
+#memory .card{
+    overflow: hidden;
+    width: 100%;
+    height: 100px;
+}
+
+#memory .card-img{
+    min-width:100%;
+    min-height:100%;
+    width:initial;
+}
